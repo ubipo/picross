@@ -1,0 +1,86 @@
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\View.exe.config
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\View.exe
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\View.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\Cells.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\DataStructures.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\PiCrossDomain.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\ViewModel.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\Cells.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\DataStructures.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\PiCrossDomain.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\ViewModel.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.csprojAssemblyReference.cache
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\Controls\PiCrossControl.baml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\Controls\PiCrossControl.g.cs
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\MainWindow.g.cs
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\App.g.cs
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View_MarkupCompile.cache
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View_MarkupCompile.lref
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\MainWindow.baml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.g.resources
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.Properties.Resources.resources
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.csproj.GenerateResource.cache
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.csproj.CopyComplete
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.exe
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\Introduction.g.cs
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\App.baml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\Introduction.baml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\ChooseGame.g.cs
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\SaveScore.g.cs
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\ChooseGame.baml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\SaveScore.baml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\Microsoft.Expression.Interactions.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\System.Windows.Interactivity.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\Microsoft.Expression.Interactions.xml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\System.Windows.Interactivity.xml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\EditPuzzle.g.cs
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\EditPuzzle.baml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\PlayPuzzle.g.cs
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\PlayPuzzle.baml
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View_Content.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\View.exe.config
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\View.exe
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\View.pdb
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\Cells.dll
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\DataStructures.dll
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\Microsoft.Expression.Interactions.dll
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\PiCrossDomain.dll
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\System.Windows.Interactivity.dll
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\ViewModel.dll
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\Cells.pdb
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\DataStructures.pdb
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\PiCrossDomain.pdb
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\ViewModel.pdb
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\Microsoft.Expression.Interactions.xml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\bin\Debug\System.Windows.Interactivity.xml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.csprojAssemblyReference.cache
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\Controls\PiCrossControl.baml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\Controls\PiCrossControl.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\EditPuzzle.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\Introduction.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\MainWindow.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\ChooseGame.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\SaveScore.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\PlayPuzzle.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\App.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View_Content.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View_MarkupCompile.cache
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View_MarkupCompile.lref
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\App.baml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\EditPuzzle.baml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\Introduction.baml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\MainWindow.baml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\ChooseGame.baml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\SaveScore.baml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\PlayPuzzle.baml
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.g.resources
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.Properties.Resources.resources
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.csproj.GenerateResource.cache
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.csproj.CopyComplete
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.exe
+H:\ucll\PBA-TI\1.2\VGO\project\picross-1819-ubipo\PiCross\View\obj\Debug\View.pdb

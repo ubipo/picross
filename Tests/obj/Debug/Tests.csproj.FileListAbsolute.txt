@@ -1,0 +1,14 @@
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\bin\Debug\PiCrossTests.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\bin\Debug\PiCrossTests.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\bin\Debug\Cells.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\bin\Debug\DataStructures.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\bin\Debug\PiCrossDomain.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\bin\Debug\Cells.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\bin\Debug\DataStructures.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\bin\Debug\PiCrossDomain.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\obj\Debug\Tests.csproj.CopyComplete
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\obj\Debug\PiCrossTests.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Tests\obj\Debug\PiCrossTests.pdb

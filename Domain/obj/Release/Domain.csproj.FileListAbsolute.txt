@@ -1,0 +1,11 @@
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\bin\Release\PiCrossDomain.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\bin\Release\PiCrossDomain.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\bin\Release\Cells.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\bin\Release\DataStructures.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\bin\Release\Cells.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\bin\Release\DataStructures.pdb
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\obj\Release\Domain.csprojAssemblyReference.cache
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\obj\Release\Domain.csproj.CopyComplete
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\obj\Release\PiCrossDomain.dll
+H:\ucll\PBA TI\1.2\VGO\project\picross-1819-ubipo\PiCross\Domain\obj\Release\PiCrossDomain.pdb
